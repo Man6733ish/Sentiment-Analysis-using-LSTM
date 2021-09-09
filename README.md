@@ -15,6 +15,6 @@ It is a Natural Language Processing Problem where we are doing sentiment analysi
 
 ## Documentation
 
-https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+ - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
   
